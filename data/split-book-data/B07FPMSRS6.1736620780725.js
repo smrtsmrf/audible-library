@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The author of <i>The Teachings of Don Juan</i> reveals the spiritual adventures that can be attained through dreams, describing his own journeys into new worlds by using ancient, powerful techniques.</p>"; 
